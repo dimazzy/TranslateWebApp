@@ -1,6 +1,7 @@
 # Welcome to TranslateWebApp
+MTAT.03.230 Veebirakenduse loomine - Tartu Ülikool
 
-<a href="https://github.com/dimazzy/TranslateWebApp/wiki">Wiki home Page</a><br>
+<a href="https://github.com/dimazzy/TranslateWebApp/wiki/MTAT.03.230-Veebirakenduste-loomine-wiki">Wiki home Page</a><br>
 
 <h3>Etapp 1:</h3><br>
 <ul>
