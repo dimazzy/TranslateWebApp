@@ -10,6 +10,7 @@ MTAT.03.230 Veebirakenduse loomine - Tartu Ülikool
 <li><a href="https://github.com/dimazzy/TranslateWebApp/wiki">Repository</a></li><br>
 <li><a href="https://github.com/dimazzy/TranslateWebApp/wiki/User-roles">User roles</a></li><br>
 <li><a href="https://github.com/dimazzy/TranslateWebApp/wiki/Meetings-with-customer">Meetings with customer</a></li><br>
+<li><a href="https://drive.google.com/folderview?id=0B9vFPsC65jFhfmFxZnNrYWxXMkt1azZhNldlV3lsd1hfZHo0TnFwdXRzbzBDYTlQenFaZEk&usp=sharing">Documents</a></li><br>
 </ul>
 -----------------------------------------------------------------------------------------
 
