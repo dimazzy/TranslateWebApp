@@ -19,6 +19,7 @@ MTAT.03.230 Veebirakenduse loomine - Tartu Ülikool
 <li><a href="#">Test environment</li><br>
 </ul>
 
+-----------------------------------------------------------------------------------------
 <a href="https://github.com/dimazzy/TranslateWebApp/wiki/Functional-Requirements">Functional Requirements</a><br>
 <a href="https://github.com/dimazzy/TranslateWebApp/wiki/Non-functional-Requirements">Non-functional Requirements</a><br>
 <a href="https://github.com/dimazzy/TranslateWebApp/wiki/Release-notes">Release notes</a><br>
