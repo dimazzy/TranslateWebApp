@@ -13,8 +13,12 @@ MTAT.03.230 Veebirakenduse loomine - Tartu Ülikool
 <li><a href="https://drive.google.com/folderview?id=0B9vFPsC65jFhfmFxZnNrYWxXMkt1azZhNldlV3lsd1hfZHo0TnFwdXRzbzBDYTlQenFaZEk&usp=sharing">Documents</a></li><br>
 </ul>
 -----------------------------------------------------------------------------------------
+<h3>Etapp 2:</h3><br>
+<ul>
+<li><a href="https://github.com/dimazzy/TranslateWebApp/wiki/Project-Plan">Project Plan</a></li><br>
+<li><a href="#">Test environment</li><br>
+</ul>
 
 <a href="https://github.com/dimazzy/TranslateWebApp/wiki/Functional-Requirements">Functional Requirements</a><br>
 <a href="https://github.com/dimazzy/TranslateWebApp/wiki/Non-functional-Requirements">Non-functional Requirements</a><br>
-<a href="https://github.com/dimazzy/TranslateWebApp/wiki/Project-Plan">Project Plan</a><br>
 <a href="https://github.com/dimazzy/TranslateWebApp/wiki/Release-notes">Release notes</a><br>
