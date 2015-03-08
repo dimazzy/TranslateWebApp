@@ -20,8 +20,9 @@ MTAT.03.230 Veebirakenduse loomine - Tartu Ülikool
 <ul>
 <li><a href="https://docs.google.com/spreadsheets/d/1xFwPJ73rFWwcc3PEis2JGCf269PC_ks5zqxwI1t0GUs/edit#gid=0">Project Plan</a></li><br>
 <li><a href="https://ec2-54-93-155-86.eu-central-1.compute.amazonaws.com">Test environment</li><br>
-</ul>
+
 <li><a href="https://bitbucket.org/mipsum/mipsum">Bitbucket Repository</a></li><br>
+</ul>
 
 -----------------------------------------------------------------------------------------
 
