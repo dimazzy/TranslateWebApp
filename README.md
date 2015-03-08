@@ -19,7 +19,7 @@ MTAT.03.230 Veebirakenduse loomine - Tartu Ülikool
 <h3>Etapp 2:</h3><br>
 <ul>
 <li><a href="https://github.com/dimazzy/TranslateWebApp/wiki/Project-Plan">Project Plan</a></li><br>
-<li><a href="#">Test environment</li><br>
+<li><a href="ec2-54-93-155-86.eu-central-1.compute.amazonaws.com">Test environment</li><br>
 </ul>
 
 -----------------------------------------------------------------------------------------
